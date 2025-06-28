@@ -21,8 +21,8 @@ I build zero-knowledge proof systems that protect privacy, enhance security, and
 
 ## 🌍 Featured In
 
-- 🧠 [awesome-noir](https://github.com/noir-lang/awesome-noir)
-- 🧠 [awesome-zk](https://github.com/ventali/awesome-zk)
+//- 🧠 [awesome-noir](https://github.com/noir-lang/awesome-noir)
+//- 🧠 [awesome-zk](https://github.com/ventali/awesome-zk)
 - 🌐 [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)
 
 ---
