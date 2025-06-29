@@ -53,7 +53,7 @@ I build zero-knowledge proof systems that protect privacy, enhance security, and
 ## 💸 Support 
 
 I'm open to:
-- Gitcoin Grants
+- Grants
 - Open-source Funding
 ---
 *Funders, ZK Researchers, and Builders welcome!*
