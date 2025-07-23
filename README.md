@@ -21,6 +21,7 @@ I build zero-knowledge proof systems that protect privacy, enhance security, and
 
 ## 🌍 Featured In
 - 🌐 [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)
+- 📦 [noir-lang/noir-examples](https://github.com/noir-lang/noir-examples)  
 
 ---
 
